@@ -1,2 +1,2 @@
-# arab_barometer_data_analysis
-A data analysis and visualization project
+# Arab Barometer Data Analysis
+A data analysis and visualization project. Made using data from Arab Barometer.
